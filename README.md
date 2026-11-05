@@ -6,16 +6,6 @@ A persistent personality-driven AI Telegram bot that embodies Rimuru Tempest fro
 
 Built with production-grade Node.js architecture by the Anitoku Team.
 
-## Features
-
-- **Persistent Identity**: Rimuru Tempest personality that never breaks character.
-- **Dynamic Relationships**: Evolving user relationships from stranger to friend.
-- **Memory System**: Remembers every conversation and user detail.
-- **Language Matching**: Automatically responds in the user's language (Uzbek, English, Russian, etc.).
-- **Group Chat Support**: Responds only when mentioned in group chats.
-- **API Key Rotation**: Automatic Groq API key switching on rate limits (supports multiple keys).
-- **Atomic Data Storage**: Corruption-safe local JSON database for chats, users, and relationships.
-- **Idle Follow-ups**: Sends messages to friends after periods of silence.
 
 ---
 
